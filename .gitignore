@@ -1,0 +1,5 @@
+*.pkl
+*.gz
+*.save
+__pycache__
+.idea
